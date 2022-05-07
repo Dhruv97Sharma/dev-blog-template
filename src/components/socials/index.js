@@ -10,6 +10,7 @@ import {
   SiTiktok,
   SiMedium,
   SiTwitch,
+  SiGithub,
 } from 'react-icons/si';
 
 const Socials = () => {
@@ -31,6 +32,8 @@ const Socials = () => {
         return SiMedium;
       case 'SiTwitch':
         return SiTwitch;
+      case 'SiGithub':
+        return SiGithub
       default:
         return QuestionOutlineIcon;
     }

@@ -1,14 +1,14 @@
 module.exports = {
   // Basic site information (required)
-  name: 'twan.dev',
-  domain: 'twan.dev',
-  url: 'https://twan.dev',
-  description: 'Twan Kruiswijk personal blog about life, music, code and more.',
+  name: 'dhruv97sharma.github.io',
+  domain: 'dhruv97sharma.github.io',
+  url: 'https://dhruv97sharma.github.io/portfolio/',
+  description: 'Dhruv Sharma personal blog about life, music, programming and more.',
   fathomCode: 'TBSAIDMS',
 
   // SEO specific (optional)
   defaultSocialImage:
-    'https://res.cloudinary.com/twankruiswijk/image/upload/v1624446915/twan-dev-social_zzbzzv.jpg',
+    'https://media.graphassets.com/output=format:jpg/resize=height:800,fit:max/TanAg2xSTrWaHHflJoGV',
 
   /* 
     Social media URLS (optional)
@@ -19,24 +19,24 @@ module.exports = {
   */
   socials: [
     {
-      name: 'Facebook',
-      url: '',
-      icon: 'SiFacebook',
+      name: 'Github',
+      url: 'https://github.com/Dhruv97Sharma',
+      icon: 'SiGithub',
+    },
+    {
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/dhruv-sharma-59082313a',
+      icon: 'SiLinkedin',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/twankrui',
+      url: 'https://twitter.com/DhruvSh02991010',
       icon: 'SiTwitter',
     },
     {
       name: 'Instagram',
-      url: 'https://instagram.com/twankrui',
+      url: 'https://www.instagram.com/_dhruvsharma1997',
       icon: 'SiInstagram',
-    },
-    {
-      name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/twan-kruiswijk-bb853a71/',
-      icon: 'SiLinkedin',
     },
     {
       name: 'Youtube',
@@ -55,7 +55,7 @@ module.exports = {
     },
     {
       name: 'Twitch',
-      url: 'https://twitch.tv/twankrui',
+      url: '',
       icon: 'SiTwitch',
     },
   ],
@@ -70,5 +70,6 @@ module.exports = {
     'images.unsplash.com',
     'res.cloudinary.com',
     'dl.dropboxusercontent.com',
+    'media.graphassets.com',
   ],
 };

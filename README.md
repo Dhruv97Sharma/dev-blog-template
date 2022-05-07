@@ -1,4 +1,4 @@
-Blion is a blog template that uses NextJS as a front-end and Notion as its CMS via the official API. This is also the repository for my blog [twan.dev](https://twan.dev), so you can check it out running in production.
+Blion is a blog template that uses NextJS as a front-end and Notion as its CMS via the official API. This is also the repository for my blog [dhruv97sharma.vercel.app](https://dhruv97sharma.vercel.app), so you can check it out running in production.
 
 ## Getting Started
 
